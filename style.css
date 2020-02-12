@@ -1,34 +1,35 @@
-form p{
-    float: left;
-    width: 50%;
+form p {
+	float: left;
+	width: 50%;
 }
-body{
-    vertical-align: middle;
+body {
+	vertical-align: middle;
 }
-html{
-    background: radial-gradient( aqua, teal, black);
-    color: white;
-    height: 100%;
-    text-align: center;
+html {
+	background: radial-gradient(#fff, #eee);
+	color: white;
+	height: 100%;
+	text-align: center;
 }
-input{
-    background-color: rgb(233, 164, 16);
-    color: indigo;
-    border: 2px solid  indigo;
-    box-shadow: indigo 3px 3px 3px;
-    
+input {
+	background-color: rgb(233, 164, 16);
+	color: indigo;
+	border: 2px solid indigo;
+	box-shadow: indigo 3px 3px 3px;
 }
 
-button{
-    background-color: rgb(219, 146, 50);
-    color:  (41, 23, 0);
-    border: 2px solid  black;
-    margin: 2px;
-    font-size: 15px;
-    box-shadow: indigo 3px 3px 3px;
+button {
+	background-color: rgb(219, 146, 50);
+	color: (41, 23, 0);
+	border: 2px solid black;
+	margin: 2px;
+	font-size: 15px;
+	box-shadow: indigo 3px 3px 3px;
 }
-form, p{
-    color:rgb(236, 178, 71);
-    font-size: 20px;
-    text-shadow: black 2px 2px 2px;
+form,
+p {
+	/* color: rgb(236, 178, 71); */
+	color: black;
+	font-size: 20px;
+	/* text-shadow: black 2px 2px 2px; */
 }
